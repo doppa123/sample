@@ -1,1 +1,3 @@
-
+if(user.name==password){
+login failed
+}
